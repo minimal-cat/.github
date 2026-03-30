@@ -17,5 +17,5 @@ Because simplicity is all we need. While we embrace powerful new technologies, w
 
 <br>
 <div align="center">
-  <sub>Stay minimal.</sub>
+  <sub>Stay simple.</sub>
 </div>
