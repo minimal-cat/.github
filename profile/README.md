@@ -1,21 +1,21 @@
 <div align="center">
   <h1>🐾 minimal Cat</h1>
-  <p><i>building hyper-focused, frictionless applications.</i></p>
+  <p><i>Building hyper-focused, frictionless applications.</i></p>
 </div>
 
 ---
 
-## what we do
-we are a product studio that builds hyper-focused, frictionless applications. from hands-free biometric pacemakers (BioDJ) to ephemeral notepads (Clear), we create digital/AI tools that execute a single purpose flawlessly and silently in a minimal way.
+## What We Do
+We are a product studio that builds hyper-focused, frictionless applications. From hands-free biometric pacemakers (BioDJ) to ephemeral notepads (Clear), we create digital/AI tools that execute a single purpose flawlessly and silently in a minimal way.
 
-## why we do it
-because simplicity is all we need. while we embrace powerful new technologies, we also believe in the enduring human need for elegance and quiet design. we exist to give users their focus, privacy, and time back. we build tools that earn your meaningful attention, rather than consuming it.
+## Why We Do It
+Because simplicity is all we need. While we embrace powerful new technologies, we also believe in the enduring human need for elegance and quiet design. We exist to give users their focus, privacy, and time back. We build tools that earn your meaningful attention, rather than consuming it.
 
-## our apps
-- [**Clear**](https://apps.apple.com/app/clear-note-and-blank/id6760629427) – the simplest vanishing notes.
-- **BioDJ** – coming soon.
+## Our Apps
+- [**Clear**](https://apps.apple.com/app/clear-note-and-blank/id6760629427) – The simplest vanishing notes.
+- **BioDJ** – Coming soon.
 
 <br>
 <div align="center">
-  <sub>stay minimal.</sub>
+  <sub>Stay minimal.</sub>
 </div>
