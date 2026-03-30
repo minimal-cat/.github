@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🐾 minimal cat</h1>
+  <h1>🐾 minimal Cat</h1>
   <p><i>building hyper-focused, frictionless applications.</i></p>
 </div>
 
