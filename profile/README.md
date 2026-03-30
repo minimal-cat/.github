@@ -11,6 +11,10 @@ we are a product studio that builds hyper-focused, frictionless applications. fr
 ## why we do it
 because simplicity is all we need. while we embrace powerful new technologies, we also believe in the enduring human need for elegance and quiet design. we exist to give users their focus, privacy, and time back. we build tools that earn your meaningful attention, rather than consuming it.
 
+## our apps
+- [**Clear**](https://apps.apple.com/app/idYOUR_APP_ID) – the simplest vanishing notes.
+- **BioDJ** – coming soon.
+
 <br>
 <div align="center">
   <sub>stay minimal.</sub>
